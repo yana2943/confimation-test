@@ -1,0 +1,30 @@
+.thanks__heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1512px;
+    height: 100px;
+    border: 1px;
+    margin: 0 auto;
+    color: #8B7969;
+}
+
+.form__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+
+.form__button-submit {
+    width: 160px;
+    height: 46px;
+    background-color: #82756A;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    cursor: pointer;
+}

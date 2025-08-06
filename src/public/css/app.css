@@ -1,0 +1,13 @@
+.header__inner {
+height: 100px;
+    width: 1512px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.header__logo {
+    color: #8B7969;
+    text-align: center;
+}
+
